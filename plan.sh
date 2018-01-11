@@ -19,4 +19,4 @@ do_build() {
 
 do_install() {
   cp -r $PLAN_CONTEXT/national-parks.json ${PREFIX}
-}
+} 
